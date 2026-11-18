@@ -1,5 +1,5 @@
 
-const API_URL = 'http://localhost:5000/api';
+const API_URL = '/api';
 
 const UNIVERSITY_EMAIL_PATTERN = /^[^\s@]+@[a-z]{1,4}\.saiuniversity\.edu\.in$/i;
 
